@@ -1,0 +1,1 @@
+# The project contains a well created splash screen, tabbed activities as well as settings activity.
